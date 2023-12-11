@@ -1,3 +1,6 @@
 .top-nav{
-    margin-top: -190px;
+    margin-top: -188px;
 }
+.subClass:hover{
+    font-size: 25px;
+ }

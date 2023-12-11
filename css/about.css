@@ -1,0 +1,45 @@
+body{
+    background-image: url(/portfolio2/images/new.jpg);
+}
+.top-nav{
+    margin-top: -19px;
+    border: 2px solid black;
+    padding: 10px;
+    background-color:rgba(129, 136, 178, 0.635);
+    margin-left: -3px;
+}
+
+a {
+    border: 0px black solid;
+    margin-top: 5px;
+    padding : 5px;
+    text-decoration: none;
+    color: white;
+   
+    
+    
+}
+a {
+    width: 100px;
+}
+.header-container{
+    display: flex;
+}
+.name{
+   
+    flex: 1;
+    color: aqua;
+
+}
+.main{
+    display: flex;
+}
+.sub{
+    flex: 1;
+}
+.name{
+    flex:3;
+}
+.subClass:hover{
+    font-size: 25px;
+ }
